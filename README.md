@@ -15,6 +15,7 @@ To run tests, run the following command,
 using npm.
 
 ```bash
+  npm install
   npm run dev
 ```
 
