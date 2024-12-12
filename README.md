@@ -12,10 +12,10 @@ React with Next
 ## How To Run The Project
 
 To run tests, run the following command,
-using npm.
+using npm in the command line.
 
 ```bash
-  npm install
+  npm install --verbose
   npm run dev
   o
 ```
